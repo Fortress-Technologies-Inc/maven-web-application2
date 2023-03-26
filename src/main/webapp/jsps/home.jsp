@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>Fortress Technologies- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
+                Fortress Technology, 
 		Toronto, Canada
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
